@@ -1,0 +1,11 @@
+numpy~=1.23.5
+pandas~=1.5.2
+scipy~=1.10.0
+tqdm~=4.64.1
+pyhive~=0.6.1
+
+# visualizations only:
+matplotlib~=3.6.2
+seaborn~=0.12.2
+plotly~=5.9.0
+ipywidgets~=8.0.4
